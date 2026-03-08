@@ -10,9 +10,9 @@ This project uses Arduino and sensors to monitor the fill level of a bin and sen
 
 ## Files
 - `Arduino.ino` → main Arduino code
-- `Circuit Connection` → Circuot Connection image
-- `Console Output` → Console output images
-- `Thingspeak Output` → Thingspeak output image
+- `Circuit Connection.jpg` → Circuit Connection image
+- `Console Output.png` → Console output image
+- `Thingspeak Output.png` → Thingspeak output image
 
 
 ## Output
